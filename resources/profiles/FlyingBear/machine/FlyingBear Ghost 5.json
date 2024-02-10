@@ -1,0 +1,11 @@
+{
+    "type": "machine_model",
+    "name": "FlyingBear Ghost 5",
+    "model_id": "FlyingBear Ghost 5",
+    "nozzle_diameter": "0.4;0.6;0.8;1.0",
+    "machine_tech": "FFF",
+    "family": "FlyingBearDesign",
+    "bed_model": "FlyingBear Ghost 5-bed.stl",
+    "hotend_model": "",
+    "default_materials": "Elegoo PLA"
+}

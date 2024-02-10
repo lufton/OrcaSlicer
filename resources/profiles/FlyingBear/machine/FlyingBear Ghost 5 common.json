@@ -1,0 +1,19 @@
+{
+  "type": "machine",
+  "setting_id": "GM001",
+  "name": "FlyingBear Ghost 5 common",
+  "from": "system",
+  "instantiation": "false",
+  "inherits": "fdm_klipper_common",
+  "printer_model": "FlyingBear Ghost 5",
+  "z_hop": [
+    "0"
+  ],
+  "printable_area": [
+    "0x0",
+    "255x0",
+    "255x210",
+    "0x210"
+  ],
+  "printable_height": "180"
+}

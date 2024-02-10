@@ -1,0 +1,8 @@
+{
+  "name": "FlyingBear Ghost 5 1.0 nozzle",
+  "inherits": "FlyingBear Ghost 5 common",
+  "printer_variant": "1.0",
+  "nozzle_diameter": [
+    "1.0"
+  ]
+}
